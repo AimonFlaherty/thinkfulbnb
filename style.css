@@ -181,6 +181,9 @@ footer p {
   .item button{
     padding: 2%;
   }
+  .item{
+    flex-direction: column;
+  }
   
   
 
